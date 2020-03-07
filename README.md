@@ -1,2 +1,2 @@
 # Match3Interview
-Match-3 Coding interview ( Sameel )
+Match-3 Take-Home Problem ( Sameel )
